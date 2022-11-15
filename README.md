@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Junior337
 - 👀 I’m interested in codding
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning CSS and HTML5
 - 📫 How to reach me:  joseinadilsonjunior@gmail.com 
 
 <!---
