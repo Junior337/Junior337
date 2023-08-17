@@ -1,8 +1,14 @@
-Olá, bem vindo!
+### Olá, seja bem vindo!
+<div>
+  Me chamo José Inadilson e estudo Análise e Desenvolvimento de Sistemas.
+</div>
 
-Me chamo José Inadilson e estudo Análise e Desenvolvimento de Sistemas.
+<div>
+  <a href="https://github.com/Junior337">
+ 
+ <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Junior337&theme=dark&show_icons=true"/>
+ 
+  </a>
+</div>
 
-<!---
-Junior337/Junior337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
