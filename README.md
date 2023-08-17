@@ -37,5 +37,5 @@ Me chamo José Inadilson e estudo Análise e Desenvolvimento de Sistemas.
 </div>
 
 ##
-![Snake gif](https://github.com/Junior337/Junior337/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Junior337/Junior337/blob/output/github-contribution-grid-snake.svg)
 
