@@ -27,7 +27,12 @@ Me chamo José Inadilson e estudo Análise e Desenvolvimento de Sistemas.
  <img align="center" alt="Junior-React" height="5%" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
+##
+
 <div>
-  <a href="https://www.linkedin.com/in/josé-inadilson-barreto-do-nascimento-junior-b2a9a3214/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/josé-inadilson-barreto-do-nascimento-junior-b2a9a3214/"> <img     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+ <a href="mailto:joseinadilsonjunior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ </a>
 </div>
 
