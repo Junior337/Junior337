@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo!
 
-Me chamo José Inadilson e estudo Análise e Desenvolvimento de Sistemas.
+Me chamo José Inadilson Junior e estudo Análise e Desenvolvimento de Sistemas.
 <div style="display: inline_block">
   <a href="https://github.com/Junior337">
  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Junior337&theme=chartreuse-dark&show_icons=true"/>
