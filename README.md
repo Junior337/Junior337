@@ -35,7 +35,7 @@ Me chamo José Inadilson Junior e estudo Análise e Desenvolvimento de Sistemas.
   </a>
  <a href="mailto:joseinadilsonjunior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>
-  <a href="https://www.instagram.com/inadilsonjunior/"><img src[="https://img.shields.io/badge/Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)"target="_blank"/> </a>
+  <a href="https://www.instagram.com/inadilsonjunior/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 </div>
 
 ##
